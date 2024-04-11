@@ -17,3 +17,10 @@ kaboomCanvas.loadSprite("spritesheet", "./spritesheet.png", {
 kaboomCanvas.loadSprite("map", "./map.png");
 
 kaboomCanvas.setBackground(kaboomCanvas.Color.fromHex("#311047"));
+
+kaboomCanvas.scene("main", async () => {
+    const mapData = await (await fetch("./map.json")).json();
+    const layers = mapData
+});
+
+kaboomCanvas.go("main");
