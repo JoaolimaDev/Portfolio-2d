@@ -2,23 +2,17 @@ export const scaleFactor = 4;
 export const pos = 0;
 
 export const dialogueData = {
-    pc: `This is my PC. I work mostly in JavaScript/TypeScript these days.
-      I've made a couple of games in that language. I also like Golang and Python. Anyway regardless of the language, I just like programming.
-      Here is my <a href="https://github.com/jslegenddev" target="_blank">Github</a>!`,
-    "cs-degree": `This is my CS degree. I hung it on the wall because I'm proud of it. It was a very theoretical degree but I think it gave me a good foundation.`,
-    "sofa-table": `That's my sofa. I like to relax here and watch YouTube. 
-    I also make game programming tutorials on YouTube. Go sub to <a href="https://youtube.com/@jslegenddev" target="_blank">my channel</a>! (If you like the content)
-    You'll learn how I built this portfolio you're currently playing through!`,
-    tv: `That's my TV. I've been watching tech youtubers a lot recently like :
-     <a href="https://www.youtube.com/@ThePrimeTimeagen" target="_blank">Theprimeagen</a>, <a href="https://www.youtube.com/@t3dotgg" target="_blank">Theo - t3.gg</a>,
-    <a href="https://www.youtube.com/@PirateSoftware" target="_blank">PirateSoftware</a> (sometimes) and <a href="https://www.youtube.com/@MelkeyDev" target="_blank">Melkey</a>!`,
-    bed: `This where I sleep. Great ideas comes when I'm lying on my bed. When an idea strikes, I often have to write it down or else I won't be able to sleep because my mental energy is consumed by it.`,
-    resume: `This is my desk and on it is my resume. <a href="https://github.com/JSLegendDev/Resume/blob/main/JSLegend%20Resume-1.pdf" target="_blank">Check it out?</a>
-    Contact me at jslegend@protonmail.com if you have any interesting job opportunities!`,
-    projects: `Info about this portfolio : It's made with the Kaboom.js library which is a library for making games in JavaScript.
-    Text is rendered with HTML/CSS. So the textbox you're currently reading is not rendered within canvas. Learn more about how to use
-    Kaboom.js by watching some of my tutorials <a href="https://youtube.com/@jslegenddev" target="_blank">here</a>.`,
-    library: `There are a lot of programming books on my shelves. There is even one in French (I also speak French btw).
-    I probably only read one of them. Who else compulsively buys technical books without ever finishing them?`,
-    exit: `If you want to exit JSLegendDev's portfolio, just close the tab.`,
+    pc: `Este é o meu PC. Onde trabalho principalmente em Java/PHP, realizei alguns projetos de backend nestas linguagens, contudo independente
+    da tecnologia, me considero um desenvolvedor FULL-STACK, acesse meu <a href="https://github.com/JoaolimaDev" target="_blank">Github</a>!`,
+    "cs-degree": ` Este é o meu diploma desenvolvedor backend ministrado pela SOFTEX, onde fui bolsista. Pendurei na parede porque tenho muito orgulho dele.
+    Foi um curso extramente ténico que me deu uma solida base, por favor acesse meu linkedin e dê uma olhadinha nas outras certificações <a href="https://www.linkedin.com/in/jo%C3%A3o-vitor-de-lima-74441b1b1/" target="_blank">Linkedin</a>.`,
+    tv: `Essa é a minha TV, onde venho acompanhando turtoriais e aulas sobre programação, alguns exemplos são : 
+    <a href="https://www.youtube.com/watch?v=wy_fSStEgMs" target="_blank">FreeCodeCamp.org</a> conteúdo em inglês, que me ensinou
+    a conceber esse portfolio, <a href="https://www.youtube.com/@LucasMontano" target="_blank">LucasMontano</a> e 
+    <a href="https://www.youtube.com/@manodeyvin" target="_blank">Mano Deyvin</a>!`,
+    resume: `Esta é minha mesa e nela está meu currículo. <a href="https://github.com/JSLegendDev/Resume/blob/main/JSLegend%20Resume-1.pdf" target="_blank">Confira!</a>
+    me contate pelo email <a href="mailto:joaolimaprofissional@hotmail.com">joaolimaprofissional@hotmail.com</a> para oportunidades de trabalho!`,
+    library: `Há muitos livros de programação em minhas estantes.
+    Provavelmente só li um deles. Quem mais compra compulsivamente livros técnicos sem nunca terminá-los?`,
+    exit: `Caso queira sair do portfólio, basta fechar a aba.`,
   };
