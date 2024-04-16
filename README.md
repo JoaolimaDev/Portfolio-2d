@@ -1,11 +1,11 @@
 # Portfólio 2D
 <img src="https://raw.githubusercontent.com/JSLegendDev/2d-portfolio-kaboom/master/developerportfoliothumbnail.png" alt="Exemplo imagem">
 
-> Portfólio 2D com resumo pessoal e profissional, inspirado pelo os turtoriais da FreeCodeCamp.org
+> <a href="https://www.youtube.com/watch?v=wy_fSStEgMs">Portfólio 2D com resumo pessoal e profissional, inspirado pelo os turtoriais da FreeCodeCamp.org</a>
 
 
 
-<a href="https://www.youtube.com/watch?v=wy_fSStEgMs">Link</a>
+
 
 ### Ajustes e melhorias
 
