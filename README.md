@@ -18,7 +18,7 @@ Para instalar o Portifólio 2D, siga estas etapas:
 
 ## ☕ Disponível
 
-<a href="https://nxkc5p-5173.csb.app/">Live demo</a>
+<a href="https://nxkc5p-5173.csb.app/">`Live demo`</a>
 
 
 
