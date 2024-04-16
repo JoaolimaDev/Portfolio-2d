@@ -10,7 +10,7 @@ export const dialogueData = {
     <a href="https://www.youtube.com/watch?v=wy_fSStEgMs" target="_blank">FreeCodeCamp.org</a> conteúdo em inglês, que me ensinou
     a conceber esse portfolio, <a href="https://www.youtube.com/@LucasMontano" target="_blank">LucasMontano</a> e 
     <a href="https://www.youtube.com/@manodeyvin" target="_blank">Mano Deyvin</a>!`,
-    resume: `Esta é minha mesa e nela está meu currículo. <a href="https://github.com/JSLegendDev/Resume/blob/main/JSLegend%20Resume-1.pdf" target="_blank">Confira!</a>
+    resume: `Esta é minha mesa e nela está meu currículo. <a href="https://github.com/JoaolimaDev/curriculo/blob/main/Curr%C3%ADculo-1.pdf" target="_blank">Confira!</a>
     me contate pelo email <a href="mailto:joaolimaprofissional@hotmail.com">joaolimaprofissional@hotmail.com</a> para oportunidades de trabalho!`,
     library: `Há muitos livros de programação em minhas estantes.
     Provavelmente só li um deles. Quem mais compra compulsivamente livros técnicos sem nunca terminá-los?`,
