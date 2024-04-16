@@ -1,14 +1,9 @@
-# Nome do projeto
+# Portfólio 2D
+<img src="https://raw.githubusercontent.com/JSLegendDev/2d-portfolio-kaboom/master/developerportfoliothumbnail.png" alt="Exemplo imagem">
 
-![GitHub repo size](https://img.shields.io/github/repo-size/iuricode/README-template?style=for-the-badge)
-![GitHub language count](https://img.shields.io/github/languages/count/iuricode/README-template?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/iuricode/README-template?style=for-the-badge)
-![Bitbucket open issues](https://img.shields.io/bitbucket/issues/iuricode/README-template?style=for-the-badge)
-![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/iuricode/README-template?style=for-the-badge)
+> Portfólio 2D com resumo pessoal e profissional, inspirado pelo os turtoriais da FreeCodeCamp.org
+<a href="https://www.youtube.com/watch?v=wy_fSStEgMs">
 
-<img src="imagem.png" alt="Exemplo imagem">
-
-> Linha adicional de texto informativo sobre o que o projeto faz. Sua introdução deve ter cerca de 2 ou 3 linhas. Não exagere, as pessoas não vão ler.
 
 ### Ajustes e melhorias
 
