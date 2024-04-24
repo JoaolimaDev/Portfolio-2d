@@ -11,7 +11,7 @@ export const dialogueData = {
     a conceber esse portfolio, <a href="https://www.youtube.com/@LucasMontano" target="_blank">LucasMontano</a> e 
     <a href="https://www.youtube.com/@manodeyvin" target="_blank">Mano Deyvin</a>!`,
     resume: `Esta é minha mesa e nela está meu currículo. <a href="https://github.com/JoaolimaDev/curriculo/blob/main/Curr%C3%ADculo-1.pdf" target="_blank">Confira!</a>
-    me contate pelo email <a href="mailto:joaolimaprofissional@hotmail.com">joaolimaprofissional@hotmail.com</a> para oportunidades de trabalho!`,
+    Me contate pelo <a href="mailto:joaolimaprofissional@hotmail.com">Email!</a> para oportunidades de trabalho!`,
     library: `Há muitos livros de programação em minhas estantes.
     Provavelmente só li um deles. Quem mais compra compulsivamente livros técnicos sem nunca terminá-los?`,
     exit: `Caso queira sair do portfólio, basta fechar a aba.`,
