@@ -2,5 +2,5 @@
 import { defineConfig } from 'vite';
 
 export default defineConfig({
-  base: '/Portfolio-2d',
+  base: '/Portfolio-2d/',
 });
